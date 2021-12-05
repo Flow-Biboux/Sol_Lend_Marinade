@@ -9,7 +9,7 @@ edition = "2018"
 
 [dependencies]
 chrono = "0.4.19"
-clap = "2.33.3"
+clap = "2.34.0"
 solana-clap-utils = "1.8.1"
 solana-cli-config = "1.8.1"
 solana-client = "1.8.1"
